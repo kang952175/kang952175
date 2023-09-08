@@ -1,7 +1,7 @@
 About Me
 =============
 
-![image](https://github.com/kang952175/D.S./assets/125178944/06650331-9c36-4391-bbfa-08a2f4d4855a)
+![image](https://github.com/kang952175/kang952175/blob/main/Image/github_image.png?raw=true)
 
 
 ***
