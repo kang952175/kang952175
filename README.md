@@ -24,4 +24,4 @@ Links that helped with writing
 - markdown - syntax : https://www.markdownguide.org/basic-syntax/
 - shields : https://shields.io/badges
 - icon : https://simpleicons.org/
-
+- Awesome GitHub Profile README : https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/README.md#github-actions-
